@@ -56,7 +56,7 @@ body{
 }
 
 .button_join:hover{
-    background-color: #2272C9;
+    background-color: green;
     transition: 0.2s ease-in-out;
 }
 
